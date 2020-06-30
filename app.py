@@ -8,3 +8,4 @@ print (year)
 currentage = 2020-year
 print("Hello"+name)
 print("you are %s old .", currentage)
+print("hello" +name+ . "you are %d years old.". %(currentage))
